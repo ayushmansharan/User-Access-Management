@@ -1,0 +1,6 @@
+useraccessmanagementsystem\SignUpServlet.class
+useraccessmanagementsystem\ApprovalServlet.class
+useraccessmanagementsystem\DBConnection.class
+useraccessmanagementsystem\LoginServlet.class
+useraccessmanagementsystem\RequestServlet.class
+useraccessmanagementsystem\SoftwareServlet.class
