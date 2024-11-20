@@ -2,13 +2,12 @@
 This project is a User Access Management System developed using Java Servlets, JSP, and PostgreSQL. It enables user registration, login, and access control, allowing users to sign up, log in, and request software access with ease.<br/>
 
 Key Features:<br/>
-User Registration and Login:<br/>
 
+User Registration and Login:<br/>
 1. Users can create accounts with a username and password.<br/>
 2. Login functionality provides secure access to the system.<br/>
 
 Software Management:<br/>
-
 1. Admins can manage software entries in the system.<br/>
 2. Users can browse available software and submit access requests.<br/>
 
@@ -19,8 +18,8 @@ Servlet-Based Design:<br/>
 Built around Java Servlets to handle client-server interactions.<br/>
 
 PostgreSQL Integration:<br/>
-
 The database stores user profiles, software details, and access requests.<br/>
+
 Technologies Used:<br/>
 Backend: Java (Servlets, JSP)<br/>
 Database: PostgreSQL<br/>
